@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "一度だけの恋なら",
+  "base_artist": "ワルキューレ",
+  "createdAt": "2025-12-02T14:30:57.426675Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "一度だけの恋なら",
+      "artist": "Walküre",
+      "has_synced": true,
+      "path": "select/01_一度だけの恋なら_Walküre.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "一度だけの恋なら",
+      "artist": "Walkure",
+      "has_synced": true,
+      "path": "select/02_一度だけの恋なら_Walkure.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ichido dake no Koi nara (Macross Delta OP) - 一度だけの恋なら（ＴＶアニメーション「マクロスΔ」ＯＰテーマ）",
+      "artist": "ワルキューレ",
+      "has_synced": true,
+      "path": "select/03_Ichido_dake_no_Koi_nara_(Macross_Delta_OP)_-_一度だけの恋なら(TVアニメーション「マクロスΔ」OPテーマ)_ワルキューレ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "一度だけの恋なら",
+      "artist": "ワルキューレ",
+      "has_synced": true,
+      "path": "select/04_一度だけの恋なら_ワルキューレ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "一度だけの恋なら",
+      "artist": "ワルキューレ",
+      "has_synced": true,
+      "path": "select/05_一度だけの恋なら_ワルキューレ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "一度だけの恋なら -Instrumental-",
+      "artist": "ワルキューレ",
+      "has_synced": true,
+      "path": "select/06_一度だけの恋なら_-Instrumental-_ワルキューレ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "一度だけの恋なら - Ichido dakeno Koi nara",
+      "artist": "Walkure",
+      "has_synced": true,
+      "path": "select/07_一度だけの恋なら_-_Ichido_dakeno_Koi_nara_Walkure.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "一度だけの恋なら",
+      "artist": "Diverse",
+      "has_synced": true,
+      "path": "select/08_一度だけの恋なら_Diverse.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "一度だけの恋なら",
+      "artist": "ワルキューレ/(美雲ΔJUNNA/フレイアΔ鈴木 みのり/カナメΔ安野 希世乃/レイナΔ東山 奈央/マキナΔ西田 望見)",
+      "has_synced": true,
+      "path": "select/09_一度だけの恋なら_ワルキューレ_(美雲ΔJUNNA_フレイアΔ鈴木_みのり_カナメΔ安野_希世乃_レイナΔ東山_奈央_マキナΔ西田_望見).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "一度だけの恋なら (Last Mission Live Ver.)",
+      "artist": "ワルキューレ",
+      "has_synced": true,
+      "path": "select/10_一度だけの恋なら_(Last_Mission_Live_Ver.)_ワルキューレ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "一度だけの恋なら [Live]",
+      "artist": "ワルキューレ (JUNNA, 鈴木みのり, 安野希世乃, 東山奈央, 西田望見)",
+      "has_synced": false,
+      "path": "select/11_一度だけの恋なら_[Live]_ワルキューレ_(JUNNA,_鈴木みのり,_安野希世乃,_東山奈央,_西田望見).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "一度だけの恋なら",
+      "artist": "ワルキューレ",
+      "has_synced": false,
+      "path": "select/pl_01_一度だけの恋なら_ワルキューレ.txt"
+    }
+  ]
+}
